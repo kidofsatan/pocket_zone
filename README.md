@@ -1,2 +1,2 @@
 # Pocket Zone
-Unity 2D game (test task)
+Unity 2D game 
